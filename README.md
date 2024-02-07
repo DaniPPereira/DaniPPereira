@@ -1,7 +1,7 @@
 - ## My name is Daniel Pereira
 - 💬 I've been programming for about 4 years. I love discovering new ways of doing things and learning new technologies.
-- ⚽ I'm a football lover and currently play for A.D.Lage in AFBraga 1st divison
 - 📚 I'm currently a Information Systems Engineering Student in IPCA <br>(Licenciatura em Engenharia de Sistemas de Informação [LESI])
+- ⚽ I'm a football lover and currently play for A.D.Lage in AFBraga 1st divison
 - 📧 Main Email: daniel.ppereira2003@gmail.com
 - ### 💻 Languages/Frameworks already worked on:
 <div styles="display:inline-block">
