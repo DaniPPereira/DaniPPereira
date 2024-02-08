@@ -3,7 +3,7 @@
 - 📚 I'm currently a Information Systems Engineering Student in IPCA <br>(Licenciatura em Engenharia de Sistemas de Informação [LESI])
 - ⚽ I'm a football lover and currently play for A.D.Lage in AFBraga 1st divison
 - 📧 Main Email: daniel.ppereira2003@gmail.com
-- ### 💻 Languages/Frameworks already worked on:
+- ### 💻 Tech Stack:
 <div styles="display:inline-block">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" title="C" alt="DanielPereira-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
