@@ -1,7 +1,8 @@
 - ## My name is Daniel Pereira
 - 💬 I've been programming for about 4 years. I love discovering new ways of doing things and learning new technologies.
-- 📚 I'm currently a Information Systems Engineering Student in IPCA <br>(Licenciatura em Engenharia de Sistemas de Informação [LESI])
-- ⚽ I'm a football lover and currently play for A.D.Lage in AFBraga 1st divison
+- 📚 Graduated with a bachelor's degree in Information Systems Engineering from IPCA <br>(Licenciatura em Engenharia de Sistemas de Informação [LESI])
+- 📚 Currentley a Software Engineer at Globalsoft CBSC
+- ⚽ I'm a football lover and currently play for G.D."Os Alegrienses" in AFBraga 1st divison
 - 📧 Main Email: daniel.ppereira2003@gmail.com
 - ### 💻 Tech Stack:
 <div styles="display:inline-block">
