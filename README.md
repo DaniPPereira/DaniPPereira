@@ -1,6 +1,6 @@
 - ## My name is Daniel Pereira
 - 💬 I've been programming for about 4 years. I love discovering new ways of doing things and learning new technologies.
-- 📚 Graduated with a bachelor's degree in Information Systems Engineering from IPCA <br>(Licenciatura em Engenharia de Sistemas de Informação [LESI])
+- 📚 Graduated with a bachelor's degree in Information Systems Engineering from IPCA <br>(Licenciatura em Engenharia de Sistemas de Informação [LESI]) and currently doing a Master’s in Computer Engineering
 - 📚 Currentley a Software Engineer at Globalsoft CBSC
 - ⚽ I'm a football lover and currently play for G.D."Os Alegrienses" in AFBraga 1st divison
 - 📧 Main Email: daniel.ppereira2003@gmail.com
