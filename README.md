@@ -1,8 +1,8 @@
 - ## My name is Daniel Pereira
-- 💬 I've been programming for about 4 years. I love discovering new ways of doing things and learning new technologies.
+- 💬 I've been programming for about 6 years. I love discovering new ways of doing things and learning new technologies.
 - 📚 Graduated with a bachelor's degree in Information Systems Engineering from IPCA <br>(Licenciatura em Engenharia de Sistemas de Informação [LESI]) and currently doing a Master’s in Computer Engineering
 - 📚 Currently a Backend Software Engineer at WIT Software
-- ⚽ I'm a football lover and currently play for G.D."Os Alegrienses" in AFBraga 1st divison
+- ⚽ I'm a football lover and currently play for S.C.Ucha" in AFBraga Divisão de Honra
 - 📧 Main Email: daniel.ppereira2003@gmail.com
 - ### 💻 Tech Stack:
 <div styles="display:inline-block">
